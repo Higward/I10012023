@@ -1,0 +1,5 @@
+order_id;response;response_id;call_data
+5;"Created new order. Incorrect address";R;2020-05-06
+8;"Order rejected because ...";M;2020-05-07
+10;"Recreat";R;2020-05-06
+12;"Order rejected";M;2020-05-07

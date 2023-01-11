@@ -1,0 +1,7 @@
+user_id,device,reg_data,group_of_test
+1,IOS,2020-01-05,A
+2,Android,2020-01-05,B
+3,desktop,2020-01-05,B
+4,IOS, 2020-01-06,A
+5,IOS,2020-01-05,A
+6,IOS,2020-01-06,B
